@@ -1,5 +1,5 @@
 ---
-name: 国家与革命
+name: state-and-revolution
 description: "Knowledge base from \"国家与革命\" by 列宁. Use when studying Marxist state theory, revolution theory, dictatorship of the proletariat, or referencing Lenin's analysis of the state."
 ---
 

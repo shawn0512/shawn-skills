@@ -1,5 +1,5 @@
 ---
-name: 成为雍正
+name: becoming-yongzheng
 description: "Knowledge base from \"成为雍正\" by 李正. Use when applying 雍正's frameworks for governance, personnel management, political reform, studying Qing Dynasty history, or referencing its concepts."
 ---
 

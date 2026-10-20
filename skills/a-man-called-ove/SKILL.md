@@ -1,5 +1,5 @@
 ---
-name: 一个叫欧维的男人决定去死
+name: a-man-called-ove
 description: "Knowledge base from \"一个叫欧维的男人决定去死\" by 弗雷德里克·巴克曼. Use when studying narrative techniques, character development, themes of grief/community/love, or referencing this novel's concepts."
 ---
 

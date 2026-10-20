@@ -1,5 +1,5 @@
 ---
-name: 史蒂夫乔布斯传
+name: steve-jobs-biography
 description: "Knowledge base from 《史蒂夫·乔布斯传》(沃尔特·艾萨克森). Use when studying Steve Jobs' leadership, Apple's product philosophy, innovation management, design-driven strategy, or the tension between integration and openness."
 ---
 

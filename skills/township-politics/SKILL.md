@@ -1,5 +1,5 @@
 ---
-name: 小镇喧嚣
+name: township-politics
 description: "Knowledge base from \"小镇喧嚣\" by 吴毅. Use when studying grassroots politics in rural China, township governance, local power dynamics, or understanding how Chinese local government operations work at the basic level."
 ---
 
